@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/v1/products",
+    "method": "POST",
+    "module": "product",
+    "endpoint_filter": "create",
+    "middleware": [
+      "api_key",
+      "auth"
+    ]
+  },
+  {
+    "path": "/v1/products",
+    "method": "GET",
+    "module": "product",
+    "endpoint_filter": "list",
+    "middleware": [
+      "api_key",
+      "auth"
+    ]
+  },
+  {
+    "path": "/v1/products/:id",
+    "method": "DELETE",
+    "module": "product",
+    "endpoint_filter": "delete",
+    "middleware": [
+      "api_key",
+      "auth"
+    ]
+  },
+  {
+    "path": "/v1/products/:id",
+    "method": "PUT",
+    "module": "product",
+    "endpoint_filter": "update",
+    "middleware": [
+      "api_key",
+      "auth"
+    ]
+  }
+]
