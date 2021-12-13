@@ -91,7 +91,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Moh Fajri - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Moh Fajri - mohfajri1010@gmail.com
 
 Project Link: [https://github.com/moh-fajri/learn-jwt](https://github.com/moh-fajri/learn-jwt)
 
