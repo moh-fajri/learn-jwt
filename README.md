@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project Test Backend Engineer in KlikDokter
+Learn JWT use Echo Framework and Gorm
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
